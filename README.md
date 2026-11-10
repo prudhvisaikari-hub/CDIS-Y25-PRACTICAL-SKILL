@@ -36,22 +36,6 @@ Each practical is documented in a standard laboratory record format containing:
 | **Academic Year** | 2026 |
 | **Institution** | Department of CSE |
 
----
-
-## Repository Structure
-
-```text
-CDIS-Y25-PRATICAL-SKILL/
-│
-├── Practical/
-│   └── Practical-1/
-│       └── CDIS_Lab_Record_2520030105_Karkala_Shiva_Reddy.pdf
-│
-├── .gitignore
-└── README.md
-```
-
----
 
 ## Practical Index
 
