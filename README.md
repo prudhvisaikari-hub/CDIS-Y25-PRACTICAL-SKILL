@@ -45,36 +45,6 @@ Each practical is documented in a standard laboratory record format containing:
 
 > The index will be updated as additional practical experiments are completed and documented.
 
----
-
-## Practical 1 — AWS Free Tier Account Setup
-
-**Aim:** To create an AWS free tier account to provision the resources.
-
-**Description:**
-The AWS Free Tier allows new users to explore and use a wide range of AWS cloud services free of cost for a limited period. It includes *12-Months Free*, *Always Free*, and *Short-Term Trial* offers across services such as Amazon EC2, Amazon S3, Amazon RDS, AWS Lambda, Amazon DynamoDB, and Amazon SageMaker.
-
-**Procedure Summary:**
-
-1. Open the AWS website and start the account creation process.
-2. Provide the account credentials and contact information.
-3. Complete identity and payment verification.
-4. Activate the Basic (Free) support plan.
-5. Sign in to the AWS Management Console.
-6. Provision and verify resources within the Free Tier limits.
-
-**Outcome:**
-An AWS free tier account was created successfully, and the required cloud resources were provisioned and verified through the AWS Management Console.
-
----
-
-## Project Repository
-
-The project work associated with this course is maintained separately:
-
-- **CDIS-KLH-Y25-Project** — [https://github.com/karkalashivareddy/CDIS-KLH-Y25-Project](https://github.com/karkalashivareddy/CDIS-KLH-Y25-Project)
-
----
 
 ## Tools and Technologies
 
